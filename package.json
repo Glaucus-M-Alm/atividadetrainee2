@@ -13,6 +13,8 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
     "readline-sync": "^1.4.10"
   }
 }
